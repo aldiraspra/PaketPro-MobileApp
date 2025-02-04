@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "220302249046",
+    "firebase_url": "https://conveyor-2929b-default-rtdb.firebaseio.com",
+    "project_id": "conveyor-2929b",
+    "storage_bucket": "conveyor-2929b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220302249046:android:767b188aa81ba799193ff7",
+        "android_client_info": {
+          "package_name": "com.conveyor.proveyor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIFLXARRp-v3F5udxX3XIsENQfaAElA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220302249046:android:2eb36bd08b32f880193ff7",
+        "android_client_info": {
+          "package_name": "com.example.conveyorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIFLXARRp-v3F5udxX3XIsENQfaAElA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220302249046:android:2ca61e3d0ec227ed193ff7",
+        "android_client_info": {
+          "package_name": "com.example.proveyor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIFLXARRp-v3F5udxX3XIsENQfaAElA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
